@@ -6,7 +6,7 @@ Make sure the Accessible Interactions and QoL scripts are enabled. To install th
 
 Install this script via Tampermonkey by going to Utilities > Import from URL. Paste in this link:
 
-<https://raw.githubusercontent.com/NoahMach/PokeFarm-Continuous-Field-Clicker/refs/heads/main/fieldclicker.js>
+<https://raw.githubusercontent.com/RoboWhisperer/PokeFarm-Continuous-Field-Clicker/refs/heads/main/fieldclicker.js>
 
 ## Recommended Extensions
 Always Active Window (*keeps the clicking running even if the window is not currently focused*)
